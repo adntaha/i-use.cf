@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i-use.cf/cf.png" alt="i_use_cf" />
+  <img src="cf.png" alt="i_use_cf" />
 </p>
 
 <p align="center">
